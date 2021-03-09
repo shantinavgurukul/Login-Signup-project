@@ -1,0 +1,20 @@
+[
+    {
+        "name": "shanti",
+        "password": "sha@12",
+        "profils": {
+            "discraption": "Bad"
+        },
+        "DOB": "2 april",
+        "Gender": "f"
+    },
+    {
+        "name": "sarmishtha",
+        "password": "sar#12",
+        "profils": {
+            "discraption": "Good"
+        },
+        "DOB": "20 feb",
+        "Gender": "f"
+    }
+]
